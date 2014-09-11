@@ -1,0 +1,47 @@
+<style>
+
+    html, body {
+        width: 100%;
+        height: 100%
+
+    }
+    .blue {
+        background-color: #00f;
+        width: 33.3%;
+        height: 100%;
+        float: left;
+    }
+
+    .red {
+        background-color: #f00;
+        width: 33.3%;
+        height: 100%;
+        float: left;
+
+    }
+
+    .right {
+        width: 33.3%;
+        height: 100%;
+        float: left;
+        
+    }
+
+    .black {
+        background-color: #000;
+        width: 100%;
+        height: 70%;
+
+
+    }
+
+
+    .image {
+        background-color: #fff;
+        width: 100%;
+        height: 30%;
+
+    }
+
+
+</style>
