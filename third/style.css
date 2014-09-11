@@ -1,0 +1,92 @@
+<style>
+
+    html, body {
+        width: 100%;
+        height: 100%
+
+    }
+    .box-top {
+        background-color: #E0E0E0;
+        width: 50%;
+        height: 30%;
+        margin-left: 35%;
+        margin-right: 35%;
+        margin-bottom: 4%;
+        
+
+    }
+
+    .box-top h1 {
+        font-size: 124px;
+        text-transform: uppercase;
+        text-align: center;
+        font-family: sans-serif;
+        padding-top: 70px;
+        padding-right: 50px;
+        padding-bottom: 50px;
+        padding-left: 50px;
+
+
+ 
+    }
+
+    .scroll {
+        width: 50%;
+        height: 7%;
+        margin-left: 35%;
+        margin-right: 35%;
+        font-size: 42px;
+        text-transform: uppercase;
+        text-align: center;
+        font-family: sans-serif;
+    }
+
+    .black {
+        background-color: #000;
+        width: 50%;
+        height: 10%;
+        margin-left: 35%;
+        margin-right: 35%;
+
+
+    }
+
+    .red {
+        background-color: #f00;
+        width: 50%;
+        height: 10%;
+        margin-left: 35%;
+        margin-right: 35%;
+
+    }
+
+    .blue {
+        background-color: #00F;
+        width: 50%;
+        height: 10%;
+        margin-left: 35%;
+        margin-right: 35%;
+
+    }
+
+    .purple {
+        background-color: #663399;
+        width: 50%;
+        height: 10%;
+        margin-left: 35%;
+        margin-right: 35%;
+
+    }
+
+    .grey {
+        background-color: #E0E0E0;
+        width: 50%;
+        height: 10%;
+        margin-left: 35%;
+        margin-right: 35%;
+
+    }
+
+
+
+</style>
